@@ -1,1 +1,8 @@
 
+OLED 使用 I2C 通信。
+
+OLED 引脚	STM32 引脚
+VCC	3.3V
+GND	GND
+SCL	PB6
+SDA	PB7
